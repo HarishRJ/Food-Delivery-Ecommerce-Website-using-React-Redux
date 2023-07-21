@@ -20,22 +20,15 @@ In this Project, I have worked on a Food delivery application developed using Re
 
 <img src="https://github.com/HarishRJ/Food-Delivery-Ecommerce-Website-using-React-Redux/blob/main/Screeenshots/Home.png" alt="project-screenshot" width="400" height="400/">
 
-  
-  
-<h2>🧐 Features</h2>
+![App Screenshot](https://github.com/HarishRJ/Food-Delivery-Ecommerce-Website-using-React-Redux/blob/main/Screeenshots/Home.png/468x300?text=App+Screenshot+Here)
 
-Here're some of the project's best features:
-
-*   Add to cart functionality
-*   Shopping cart functionality
-*   Product Filtering functionality
-*   Product page Cart and checkout page
-*   Contact page
-*   Awesome modern minimalist UI
+  
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. To avoid further error of running this project delete "package-lock" file</p>
+##### To start the project along with me just download the start-up file and run available script
+
+<p>1. First, for avoiding further error of running this project delete "package-lock" file</p>
 
 ```
 npm install node
@@ -65,32 +58,5 @@ Technologies used in the project:
 *   CSS
 *   Visual Studio IDE
   
-### Technologies Used:
-
----
-
-1. React.js
-2. Redux Toolkit
-3. ReactStrap
-4. CSS
-
-### How to start?
-
----
-
-##### To start the project along with me just download the start-up file and run available script
-
-```javascript
-// first install all necessary dependencies
-
-npm i
-
-// next run
-
-npm start
-
-```
-=======
-
 
 
