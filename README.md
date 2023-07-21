@@ -49,7 +49,6 @@ Technologies used in the project:
 
 
 <h2>🛠️ Installation Steps:</h2>
----
 
 ##### To start the project along with me just download the start-up file and run available script
 
