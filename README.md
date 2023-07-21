@@ -18,7 +18,7 @@ In this Project, I have worked on a Food delivery application developed using Re
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/HarishRJ/Food-Delivery-Ecommerce-Website-using-React-Redux/blob/main/Screeenshots/Home.png" alt="project-screenshot" width="500" height="490/">
+<img src="https://github.com/HarishRJ/Food-Delivery-Ecommerce-Website-using-React-Redux/blob/main/Screeenshots/Home.png" alt="project-screenshot" width="450" height="790/">
 
 ![App Screenshot](https://github.com/HarishRJ/Food-Delivery-Ecommerce-Website-using-React-Redux/blob/main/Screeenshots/Home.png/468x300?text=App+Screenshot+Here)
 
