@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-## Food Ordering App
+# FOODOMANIA-Ecommerce-Website-using-React-Redux
+In this Project, I have worked on a Food delivery application developed using React js and Redux.
 
 ### Features:
 
@@ -43,10 +42,6 @@ npm start
 
 ```
 =======
-# FOODOMANIA-Ecommerce-Website-using-React-Redux
-In this Project, I have worked on a Food delivery application developed using React js and Redux.
->>>>>>> 3538ec484291a06aec8325655931e8cb645ff959
-=======
-# Food-Delivery-Ecommerce-Website-using-React-Redux
-In this Project, I have worked on a Food delivery application developed using React js and Redux.
->>>>>>> af89302be92262c15fac1d6a29f011a658882ab0
+
+
+
