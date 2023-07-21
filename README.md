@@ -18,15 +18,19 @@ Technologies used in the project:
 ---
 
 ### Home
+---
 <img src="https://github.com/HarishRJ/Food-Delivery-Ecommerce-Website-using-React-Redux/blob/main/Screeenshots/Home.png" alt="project-screenshot" width="850" height="450/">
 
 ### Dashboard
+---
 <img src="https://github.com/HarishRJ/Food-Delivery-Ecommerce-Website-using-React-Redux/blob/main/Screeenshots/Foods.png" alt="project-screenshot" width="850" height="450/">
 
 ### Cart
+---
 <img src="https://github.com/HarishRJ/Food-Delivery-Ecommerce-Website-using-React-Redux/blob/main/Screeenshots/Cart.png" alt="project-screenshot" width="850" height="450/">
 
 ### Checkout
+---
 <img src="https://github.com/HarishRJ/Food-Delivery-Ecommerce-Website-using-React-Redux/blob/main/Screeenshots/Checkout.png" alt="project-screenshot" width="850" height="450/">
 
 
