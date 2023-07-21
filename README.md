@@ -16,6 +16,55 @@ In this Project, I have worked on a Food delivery application developed using Re
 - Login and Register page
 - Awesome modern minimalist UI
 
+<h2>Project Screenshots:</h2>
+
+<img src="https://github.com/HarishRJ/Food-Delivery-Ecommerce-Website-using-React-Redux/blob/main/Screeenshots/Home.png" alt="project-screenshot" width="400" height="400/">
+
+  
+  
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   Add to cart functionality
+*   Shopping cart functionality
+*   Product Filtering functionality
+*   Product page Cart and checkout page
+*   Contact page
+*   Awesome modern minimalist UI
+
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. To avoid further error of running this project delete "package-lock" file</p>
+
+```
+npm install node
+```
+
+<p>2. Then install all necessary dependencies</p>
+
+```
+npm i
+```
+
+<p>3. Start the development server</p>
+
+```
+npm start
+```
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   React
+*   Redux Toolkit
+*   Reduxstrap
+*   CSS
+*   Visual Studio IDE
+  
 ### Technologies Used:
 
 ---
